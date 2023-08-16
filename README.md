@@ -8,7 +8,7 @@ Mobile View
 <img width="1080" alt="image" src="https://github.com/vivek9211/12007412/assets/82077595/956ba02f-dd0a-4ec0-b7cb-18f41db61760">
 
 # Question 2 
-'''
+```
 {
     "companyName": "Train Central",
     "clientID": "77e48182-8965-4b75-83ec-a043f7c8ec7f",
@@ -17,5 +17,5 @@ Mobile View
     "ownerEmail": "vivekzmr9211@gmail.com",
     "rollNo": "12007412"
 }
-'''
+```
 
